@@ -1,0 +1,17 @@
+{
+  "name": "تعلّم الصرف",
+  "short_name": "تعلّم الصرف",
+  "description": "تطبيق تفاعلي لتعلّم علم الصرف من الجذر إلى الدراسات العليا. إعداد وتصميم: وائل الخزاعي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F3B33",
+  "theme_color": "#0F3B33",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
